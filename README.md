@@ -50,6 +50,7 @@ rake crxmake
 
 # License
 
+សូមប្រើកម្មវិធីនេះដោយសេរី។ អ្នកអាចកែប្រែបាន។ អ្នកអាចប្រើកម្មវិធីនេះនៅកន្លែងធ្វើការ។ សូមសិក្សាដោយសេរី។
 
 ```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
