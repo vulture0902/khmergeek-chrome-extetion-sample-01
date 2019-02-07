@@ -1,19 +1,13 @@
 {
-  "name":"khmergeek-sample-01",
-  "description":"khmergeek-sample-01",
+  "name":"កម្មវិធីបង្ហាញ ខ្មែរ keyboard layout",
+  "description":"កម្មវិធីបង្ហាញ ខ្មែរ keyboard layout",
   "version":"0.0.1",
   "manifest_version": 2,
   "background": {
     "scripts": ["js/background.js"]
   },
   "permissions": [
-    "activeTab",
-    "tabs",
-    "storage",
-    "<all_urls>",
-    "https://*/*",
-    "http://*/*",
-    "http://*/"
+    "tabs"
   ],
   "browser_action": {
     "default_icon": "img/icon.png",
