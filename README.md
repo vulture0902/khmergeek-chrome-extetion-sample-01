@@ -45,6 +45,7 @@ rake crxmake
     └── manifest.json <--- setting file
 ```
 
+[![install-image](https://gyazo.com/e28ba56d13f59b96859b3723313ee81c.gif)](https://gyazo.com/e28ba56d13f59b96859b3723313ee81c)
 
 
 
